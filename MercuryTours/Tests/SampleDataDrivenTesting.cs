@@ -41,6 +41,7 @@ namespace MercuryTours.Tests
                 .Where(x => x.UserName.Equals("Buddi", StringComparison.InvariantCultureIgnoreCase))
                 .Select(x => x).ToList().First();
             signOnPage.SignOnTheUser(signOnInformation);
+            Console.WriteLine("This test execution is finished");
         }
     }
 }
