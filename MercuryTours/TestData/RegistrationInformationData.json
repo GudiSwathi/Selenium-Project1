@@ -1,0 +1,94 @@
+[
+  {
+    // RegistrationInformation
+    "contactInformation": { // ContactInformation
+      "firstName": "Buddi",
+      "lastName": "Gudi",
+      "phone": "8886140708",
+      "email": "swathig@gmail.com"
+    },
+
+    "mailingInformation": { // MailingInformation
+      "address": "Kukatpally",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postalCode": "500072",
+      "country": "India"
+    },
+
+    "userInformation": { // UserInformation
+      "userName": "SwathiGudi",
+      "password": "swathi",
+      "confirmPassword": "swathi"
+    }
+  },
+  {
+    // RegistrationInformation
+    "contactInformation": { // ContactInformation
+      "firstName": "Swathi",
+      "lastName": "Gudi",
+      "phone": "8886140708",
+      "email": "swathig@gmail.com"
+    },
+
+    "mailingInformation": { // MailingInformation
+      "address": "Kukatpally,Telangana",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postalCode": "500072",
+      "country": "India"
+    },
+
+    "userInformation": { // UserInformation
+      "userName": "SwathiGudi",
+      "password": "swathi",
+      "confirmPassword": "swathi"
+    }
+  },
+  {
+    // RegistrationInformation
+    "contactInformation": { // ContactInformation
+      "firstName": "Kishore",
+      "lastName": "Gudi",
+      "phone": "8886140708",
+      "email": "swathig@gmail.com"
+    },
+
+    "mailingInformation": { // MailingInformation
+      "address": "Kukatpally",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postalCode": "500072",
+      "country": "India"
+    },
+
+    "userInformation": { // UserInformation
+      "userName": "SwathiGudi",
+      "password": "swathi",
+      "confirmPassword": "swathi"
+    }
+  },
+  {
+    // RegistrationInformation
+    "contactInformation": { // ContactInformation
+      "firstName": "Anu",
+      "lastName": "Gudi",
+      "phone": "8886140708",
+      "email": "swathig@gmail.com"
+    },
+
+    "mailingInformation": { // MailingInformation
+      "address": "Kukatpally",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "postalCode": "500072",
+      "country": "India"
+    },
+
+    "userInformation": { // UserInformation
+      "userName": "SwathiGudi",
+      "password": "swathi",
+      "confirmPassword": "swathi"
+    }
+  }
+]
